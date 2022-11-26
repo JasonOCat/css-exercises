@@ -1,3 +1,9 @@
+# Live Demo : 
+
+Flex 👉 https://jasonocat.github.io/css-exercises/flex/07-flex-layout-2/
+Simple Grid 👉 https://jasonocat.github.io/css-exercises/grid/01-grid-layout-1/
+Holy Grail Mockup 👉 https://jasonocat.github.io/css-exercises/grid/03-grid-layout-3
+
 # CSS Exercises
 
 These exercises are a series of CSS related tasks intended to complement the HTML and CSS content on The Odin Project (TOP). They should only be done when instructed during the course of the curriculum.
