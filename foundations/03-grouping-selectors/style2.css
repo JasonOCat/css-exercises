@@ -1,14 +1,13 @@
-.click {
+.one {
   background-color: black;
   color: white;
 }
 
-.no-click {
+.two {
   background-color: yellow;
 }
 
-.click,
-.no-click {
-  font-size: 28px;
+.one,
+.two {
   font-family: Helvetica, 'Times New Roman', sans-serif;
 }
